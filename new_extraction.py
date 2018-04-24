@@ -3,8 +3,8 @@
 
 from bs4 import BeautifulSoup  # 导入BeautifulSoup 模块
 
-xml_path = 'E:\PycharmProjects\\NaiveBayes\\'  # XML文件存放路径
-file_path = 'E:\PycharmProjects\\NaiveBayes\\'  # 提取后文件存放路径
+xml_path = 'E:\PycharmProjects\XACML_Optimized_Matching\\'  # XML文件存放路径
+file_path = 'E:\PycharmProjects\XACML_Optimized_Matching\\'  # 提取后文件存放路径
 
 file = open(file_path + 'extraction.csv', 'w')  # 提取文件名extraction.csv
 
