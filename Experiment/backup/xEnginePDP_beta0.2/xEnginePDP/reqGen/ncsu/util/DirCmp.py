@@ -1,0 +1,1 @@
+import filecmpcompRand = filecmp.dircmp('../margrave/examples/tutorial/xacml-code/xacmlA/0/','../margrave/examples/tutorial/xacml-code/xacmlA/orig/');compRand.report_full_closure();

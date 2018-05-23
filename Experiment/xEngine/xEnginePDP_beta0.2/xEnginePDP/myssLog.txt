@@ -1,0 +1,8 @@
+2018-05-24 00:54:48,088 INFO  [main] xacml_request_verifier.RequestVerifierOfTwoPolicies (RequestVerifierOfTwoPolicies.java:392)     - Done
+2018-05-24 00:54:48,102 INFO  [main] compareResultFWRvsXACML.compareResultFWRvsXACML (compareResultFWRvsXACML.java:211)     - Done
+2018-05-24 01:14:17,801 INFO  [main] xacml_request_verifier.RequestVerifierOfTwoPolicies (RequestVerifierOfTwoPolicies.java:392)     - Done
+2018-05-24 01:14:17,812 INFO  [main] compareResultFWRvsXACML.compareResultFWRvsXACML (compareResultFWRvsXACML.java:211)     - Done
+2018-05-24 01:49:03,718 INFO  [main] xacml_request_verifier.RequestVerifierOfTwoPolicies (RequestVerifierOfTwoPolicies.java:392)     - Done
+2018-05-24 01:49:03,730 INFO  [main] compareResultFWRvsXACML.compareResultFWRvsXACML (compareResultFWRvsXACML.java:211)     - Done
+2018-05-24 01:57:27,390 INFO  [main] xacml_request_verifier.RequestVerifierOfTwoPolicies (RequestVerifierOfTwoPolicies.java:392)     - Done
+2018-05-24 01:57:27,403 INFO  [main] compareResultFWRvsXACML.compareResultFWRvsXACML (compareResultFWRvsXACML.java:211)     - Done

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="xercesImpl.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/xercesImpl.jar!/"/>
+	</lib>
+	<lib name="xalan.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/xalan.jar!/"/>
+	</lib>
+	<lib name="xerces.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/xerces.jar!/"/>
+	</lib>
+	<lib name="log4j-1.2.12.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/lib/log4j-1.2.12.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/lib/log4j-1.2.12.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/log4j-1.2.12.jar!/"/>
+	</lib>
+</component>

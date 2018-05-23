@@ -1,0 +1,3600 @@
+1-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+10-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+100-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+101-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+102-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+103-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+104-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+105-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+106-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+107-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+108-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+109-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+11-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+110-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+111-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+112-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+113-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+114-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+115-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+116-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+117-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+118-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+119-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+12-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+120-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+121-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+122-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+123-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+124-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+125-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+126-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+127-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+128-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+129-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+13-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+130-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>NotApplicable</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+131-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+132-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+133-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+134-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+135-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+136-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+137-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+138-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+139-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+14-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+140-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+141-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+142-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+143-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+144-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+145-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+146-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+147-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>NotApplicable</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+148-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+149-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+15-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+150-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+151-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+152-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+153-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+154-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+155-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+156-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+157-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+158-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+159-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+16-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+160-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+161-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+162-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+163-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+164-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+165-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+166-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+167-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+168-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+169-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+17-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+170-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+171-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+172-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+173-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+174-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+175-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+176-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+177-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+178-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+179-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+18-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+180-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+181-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+182-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+183-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+184-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+185-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+186-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+187-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+188-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+189-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+19-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+190-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+191-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+192-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+193-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+194-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+195-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+196-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+197-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+198-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+199-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+2-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+20-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+200-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+21-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+22-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+23-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+24-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+25-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+26-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+27-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+28-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+29-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+3-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>NotApplicable</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+30-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+31-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+32-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+33-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+34-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+35-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+36-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+37-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+38-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+39-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+4-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+40-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+41-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+42-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+43-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+44-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+45-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+46-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+47-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+48-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+49-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+5-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+50-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+51-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+52-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+53-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+54-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+55-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+56-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+57-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+58-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+59-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+6-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+60-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+61-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+62-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+63-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+64-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+65-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+66-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+67-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+68-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+69-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+7-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+70-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+71-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+72-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+73-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+74-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+75-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+76-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+77-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+78-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+79-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+8-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+80-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+81-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+82-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+83-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+84-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+85-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+86-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+87-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+88-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+89-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+9-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+90-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+91-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+92-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+93-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+94-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+95-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+96-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+97-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+98-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+99-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+1-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+10-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+100-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+101-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+102-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+103-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+104-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+105-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+106-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+107-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+108-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+109-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+11-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+110-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+111-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+112-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+113-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+114-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+115-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+116-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+117-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+118-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+119-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+12-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+120-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+121-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+122-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+123-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+124-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+125-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+126-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+127-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+128-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+129-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+13-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+130-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>NotApplicable</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+131-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+132-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+133-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+134-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+135-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+136-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+137-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+138-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+139-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+14-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+140-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+141-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+142-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+143-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+144-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+145-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+146-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+147-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>NotApplicable</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+148-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+149-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+15-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+150-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+151-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+152-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+153-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+154-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+155-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+156-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+157-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+158-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+159-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+16-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+160-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+161-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+162-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+163-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+164-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+165-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+166-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+167-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+168-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+169-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+17-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+170-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+171-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+172-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+173-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+174-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+175-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+176-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+177-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+178-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+179-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+18-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+180-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+181-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+182-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+183-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+184-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+185-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+186-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+187-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+188-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+189-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+19-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+190-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+191-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+192-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+193-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+194-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+195-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+196-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+197-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+198-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+199-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+2-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+20-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+200-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+21-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+22-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+23-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+24-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+25-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+26-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+27-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+28-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+29-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+3-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>NotApplicable</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+30-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+31-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+32-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+33-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+34-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+35-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+36-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+37-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+38-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+39-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+4-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+40-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+41-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+42-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+43-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+44-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+45-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+46-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+47-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+48-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+49-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+5-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+50-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+51-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+52-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+53-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+54-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+55-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+56-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+57-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+58-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+59-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+6-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+60-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+61-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+62-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+63-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+64-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+65-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+66-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+67-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+68-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+69-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+7-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+70-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+71-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+72-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+73-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+74-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+75-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+76-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+77-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+78-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+79-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+8-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+80-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+81-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+82-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+83-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+84-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+85-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+86-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+87-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+88-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Permit</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+89-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+9-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+90-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+91-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+92-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+93-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+94-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+95-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+96-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+97-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+98-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>
+99-req.xml
+<Response>
+<Result ResourceID="DEFAULT RESOURCE">
+<Decision>Deny</Decision>
+<Status>
+<StatusCode Value="urn:oasis:names:tc:xacml:1.0:status:ok"/>
+</Status>
+</Result>
+</Response>

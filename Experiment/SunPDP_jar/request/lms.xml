@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf8"?>
+<Request>
+    <Subject>
+        <Attribute AttributeId="urn:oasis:names:tc:xacml:1.0:subject:subject-id"
+                   DataType="http://www.w3.org/2001/XMLSchema#string">
+            <AttributeValue>WEBMASTER</AttributeValue>
+        </Attribute>
+    </Subject>
+    <Resource>
+        <Attribute AttributeId="urn:oasis:names:tc:xacml:1.0:resource:resource-id"
+                   DataType="http://www.w3.org/2001/XMLSchema#string">
+            <AttributeValue>USERACCOUNT</AttributeValue>
+        </Attribute>
+    </Resource>
+    <Action>
+        <Attribute AttributeId="urn:oasis:names:tc:xacml:1.0:action:action-id"
+                   DataType="http://www.w3.org/2001/XMLSchema#string">
+            <AttributeValue>OPENMEETING</AttributeValue>
+        </Attribute>
+    </Action>
+    <Environment>
+        <Attribute AttributeId="current-context"
+                   DataType="http://www.w3.org/2001/XMLSchema#string"
+                   Issuer="admin">
+            <AttributeValue>WORKINGDAY</AttributeValue>
+        </Attribute>
+    </Environment>
+</Request>
+

@@ -1,0 +1,89 @@
+Introduction of using xEngine PDP code
+				Fei Chen (feichen@cse.msu.edu)
+
+The project starts at simple way, and embeded with more scalable stuff.
+
+Limitation of xEngine beta 0.1 version.
+1. xEngine can only handle one type of multi-valued requests with 2 subjects and 2 actions.
+2. xEngine cannot parse an XACML policy with only-one-applicable combining algorithm, because it probably causes errors when normalize such XACML policies. If you are interesting, you can easily fix this problem by adding some codes using PDD.
+
+
+User manual
+
+1. An exmample code of using xEngine is Tester.java. 
+
+2. The related directory location information is configures as follows,
+			such as xacml policies, single-valued requests, multi-valued requests.
+			
+	\commonImpelmentation\ConfigInfo.java
+
+
+	IF TESTPROGRAM use this configuration, mainly used the following parameters.
+
+	"policyid" 	represents the corresponding policy. 
+	"requestOption" represents the type of requests (ie. single-valued requests or multi-valued requests)
+	"mode"		represents the approach for processing the requests (ie. PDD or forwarding table)
+		
+	For example,
+		
+	policyid = "0"		// "continue-a.xml" polily
+	requestOption = "1"	// single-valued requests
+	mode = 0;		// the PDD approach
+
+
+3. Normalization
+
+	// The target file is from policy[policyid] ***(see section 1-1)***
+	// The reference file is saved policy_reference[policyid]
+	// The range rules are saved at fwr_policy[policyid]
+	xEngineConverter.TestProgram.main(new String[] {policyid});
+
+4. xEngine PDP evaluation on an XACML policy
+
+	// mode = 0; PDD
+	// mode = 1; The Forwarding Table
+
+	// The target file is from policy[policyid] ***(see section 1-1)***
+	// The taget evlaution requests are from at SoDreqDir[policyid] or nonSoDreqDir[policyid].
+	// option parameter is default value as "xacmDirParsing" 
+	// Outoption parameter is  "noWrite" for measuring evaluation time
+	// Outoption parameter is  writeFile" for saving output - This is checking for results.
+	xEngineVerifier.TestProgram.main(new String[] {policyid, mode, option, Outoption});
+
+5. Sun's PDP evaluation on an XACML policy
+
+
+	// The target file is from policy[policyid] ***(see section 1-1)***
+	// The taget evlaution requests are from at SoDreqDir[policyid] or nonSoDreqDir[policyid] by selected_mode 1, 2, respectively.
+
+	// Outoption parameter is  "noWrite" for measuring evaluation time
+	// Outoption parameter is  writeFile" for saving output - This is checking for results.
+	xacml_request_verifier.TestProgram.main(new String[] {policyid, mode, Outoption});
+
+
+6. If you set Outoption parameter as  "writeFile" in you can compare the correctness of decisions.
+
+	// our comparison is up to the smaller # of decisions from outputs of either XACML or xEngine.
+	compareResultFWRvsXACML.TestProgram.main(new String[] {policyid, mode});
+
+7. Generate synthetic XACML policies.
+
+	// Set the parameter for generating a synthetic XACML policy
+	
+	// (1) set the the number of policy sets for different levels of the XACML policy.
+        syntaticMaker.syntaticRuleMaker.setPoiicyTreeStructure (n1, n2, n3, n4);
+
+        // (2) set the number of subjects, resources, and actions for all rules in the XACML policy
+        syntaticMaker.syntaticRuleMaker.setAttrParameters (20, 20, 2);
+        syntaticMaker.syntaticRuleMaker.setRuleAttrParameters (1, 1, 1, 1, 1, 1);
+	
+	// Generate synthetic XACML policies
+	syntaticMaker.TestProgram.main(new String[] {selected_policy});
+
+8. Generate XACML requests for the synthetic XACML policies
+        
+        // Set the parameter for generateing an XACML request
+        reqGen.ncsu.xacml.AllComboReqFactory.setReqParameter(1, 1, 1, 1);
+        
+	// Generate an XACML request based on the given synthetic policy
+        reqGen.src.requestGenerator.TestProgram.main(new String[] {selected_policy, selected_mode, maxReq});
