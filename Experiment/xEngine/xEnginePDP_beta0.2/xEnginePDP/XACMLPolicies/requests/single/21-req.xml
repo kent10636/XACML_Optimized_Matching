@@ -1,7 +1,7 @@
 <Request>
 <Subject SubjectCategory="urn:oasis:names:tc:xacml:1.0:subject-category:access-subject">
 <Attribute AttributeId="subject-id" DataType="http://www.w3.org/2001/XMLSchema#string">
-<AttributeValue>PERSONNEL</AttributeValue>
+<AttributeValue>newSub1</AttributeValue>
 </Attribute>
 </Subject>
 <Resource>
@@ -14,7 +14,7 @@
 </Resource>
 <Action>
 <Attribute AttributeId="action-type" DataType="http://www.w3.org/2001/XMLSchema#string">
-<AttributeValue>UPDATEMEETINGINFOS</AttributeValue>
+<AttributeValue>ATTENDEEACTIVITY</AttributeValue>
 </Attribute>
 </Action>
 </Request>

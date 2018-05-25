@@ -1,7 +1,7 @@
 <Request>
 <Subject SubjectCategory="urn:oasis:names:tc:xacml:1.0:subject-category:access-subject">
 <Attribute AttributeId="subject-id" DataType="http://www.w3.org/2001/XMLSchema#string">
-<AttributeValue>newSub1</AttributeValue>
+<AttributeValue>OWNER</AttributeValue>
 </Attribute>
 </Subject>
 <Resource>
@@ -9,7 +9,7 @@
 <AttributeValue>DEFAULT RESOURCE</AttributeValue>
 </Attribute>
 <Attribute AttributeId="resource-class" DataType="http://www.w3.org/2001/XMLSchema#string">
-<AttributeValue>COMMENT</AttributeValue>
+<AttributeValue>PERSONNELACCOUNT</AttributeValue>
 </Attribute>
 </Resource>
 <Action>

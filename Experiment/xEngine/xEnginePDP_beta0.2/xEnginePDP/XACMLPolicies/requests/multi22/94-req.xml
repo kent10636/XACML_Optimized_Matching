@@ -1,7 +1,7 @@
 <Request>
 <Subject SubjectCategory="urn:oasis:names:tc:xacml:1.0:subject-category:access-subject">
 <Attribute AttributeId="subject-id" DataType="http://www.w3.org/2001/XMLSchema#string">
-<AttributeValue>ATTENDEE</AttributeValue>
+<AttributeValue>NONATTENDEE</AttributeValue>
 </Attribute>
 </Subject>
 <Resource>
@@ -9,12 +9,12 @@
 <AttributeValue>DEFAULT RESOURCE</AttributeValue>
 </Attribute>
 <Attribute AttributeId="resource-class" DataType="http://www.w3.org/2001/XMLSchema#string">
-<AttributeValue>USERACCOUNT</AttributeValue>
+<AttributeValue>MEETING</AttributeValue>
 </Attribute>
 </Resource>
 <Action>
 <Attribute AttributeId="action-type" DataType="http://www.w3.org/2001/XMLSchema#string">
-<AttributeValue>HANDOVER</AttributeValue>
+<AttributeValue>LEAVE</AttributeValue>
 </Attribute>
 </Action>
 </Request>

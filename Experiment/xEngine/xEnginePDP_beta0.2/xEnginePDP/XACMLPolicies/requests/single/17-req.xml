@@ -9,12 +9,12 @@
 <AttributeValue>DEFAULT RESOURCE</AttributeValue>
 </Attribute>
 <Attribute AttributeId="resource-class" DataType="http://www.w3.org/2001/XMLSchema#string">
-<AttributeValue>MEETING</AttributeValue>
+<AttributeValue>USERACCOUNT</AttributeValue>
 </Attribute>
 </Resource>
 <Action>
 <Attribute AttributeId="action-type" DataType="http://www.w3.org/2001/XMLSchema#string">
-<AttributeValue>SETMEETINGMODERATOR</AttributeValue>
+<AttributeValue>SPEAK</AttributeValue>
 </Attribute>
 </Action>
 </Request>
