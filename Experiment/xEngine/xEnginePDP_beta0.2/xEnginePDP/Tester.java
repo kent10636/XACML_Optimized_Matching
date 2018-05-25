@@ -14,7 +14,7 @@ import commonImpelmentation.*;
  
 public class Tester{
 	public synchronized static void main(String[] args) throws Throwable{
-		request.generate_request(null);  //request.java中的generate_request()方法生成待匹配的策略，需要输入生成数量
+		//request.generate_request(null);  //request.java中的generate_request()方法生成待匹配的策略，需要输入生成数量
 
 		Util.setupLogger();
 		
